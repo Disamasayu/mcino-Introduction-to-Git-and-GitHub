@@ -1,11 +1,12 @@
-"fork": true,
-  "url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub",
-  "forks_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/forks",
-  "keys_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/keys{/key_id}",
-  "collaborators_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator}",
-  "teams_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/teams",
-  "hooks_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/hooks",
-  "issue_events_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/issues/events{/number}",
-  "events_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/events",
-  "assignees_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/assignees{/user}",
-  "branches_url": "https://api.github.com/repos/Disamasayu/mcino-Introduction-to-Git-and-GitHub/branches{/branch}",
+Command:
+curl -s https://api.github.com/repos/Disamasayu/github-final-project
+
+Output:
+{
+  "name": "github-final-project",
+  "full_name": "Disamasayu/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
