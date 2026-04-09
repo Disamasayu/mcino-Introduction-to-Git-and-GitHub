@@ -1,7 +1,11 @@
-Command : git checkout main
+Command: 
+git checkout main
+Output:
 Switched to branch 'main'
 
-Command : git merge bug-fix-typo
+Command: 
+git merge bug-fix-typo
+Output:
 Updating ...
 Fast-forward
  README.md | 2 +-
