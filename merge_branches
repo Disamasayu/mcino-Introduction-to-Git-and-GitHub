@@ -1,6 +1,7 @@
-$ git checkout main
+Command : git checkout main
 Switched to branch 'main'
-$ git merge bug-fix-typo
+
+Command : git merge bug-fix-typo
 Updating ...
 Fast-forward
  README.md | 2 +-
